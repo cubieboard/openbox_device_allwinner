@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pick_website"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="horizontal" >
+	<ImageView
+	    android:id="@+id/website_pick_icon"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center_vertical"
+	    android:src="@drawable/shortcut_key_pick_website" />
+	<TextView
+	    android:id="@+id/website_pick"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1"
+	    android:layout_gravity="center_vertical"
+	    android:text="@string/shortcut_item_pick_a_website"
+	    android:gravity="center_vertical"
+	    android:textColor="@android:color/white"
+	    android:textSize="18sp"/>
+</LinearLayout>

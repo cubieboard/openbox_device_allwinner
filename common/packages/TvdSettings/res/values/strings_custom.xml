@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="smart_brightness_title">Smart backlight</string>
+    <string name="smart_brightness_summary">Auto adjust the backlight.</string>
+    <string name="smart_brightness_preview">Preview mode</string>
+    
+    <!-- Audio output mode -->
+    <string name="audio_output_mode_title">Audio output mode</string>
+    
+    <!-- Display output mode -->
+    <string name="display_output_mode_title">Display output mode</string>
+    <string name="display_output_mode_summary">Display output mode</string>
+    
+    <!-- Constrast and saturation -->
+    <string name="contrast_title">Contrast</string>
+    <string name="saturation_title">Saturation</string>
+    
+    <!-- Mouse step -->
+    <string name="mouse_step_settings_title">Mouse step</string>
+    <string name="mouse_step_settings_summary">Set mouse step of the remote controller</string>
+    
+    <!-- Shortcut key -->
+    <string name="shortcut_key_list_title">Shortcut Settings</string>
+    <string name="shortcut_key_list_summary">Set the shortcut key of the 4 color key on remote control</string>
+    <string name="shortcut_pick_title">Please pick a shortcut from list below</string>
+    <string name="shortcut_website_list">Bookmarks in current broswer</string>
+    <string name="set_shortcut_keys_title">Set shortcut keys</string>
+    <string name="shortcut_item_input_a_website">Input a website as the shortcut</string>
+    <string name="shortcut_item_pick_a_website">Pick a website from bookmark of a special browser</string>
+    <string name="input_website_title">Please input a website</string>
+    <string name="input_ok">Ok</string>
+    <string name="input_cancel">Cancel</string>
+    
+    <!-- Media scanner -->
+    <string name="mutil_media_category">Mutil Media</string>
+    <string name="media_scan_title">Enable media scanning on %1$s</string>
+        
+    <!-- Calibrating   -->
+    <string name="tscalibration_title">Calibrating the touch screen</string>
+    
+    <!-- Accelerometer coordinate -->
+    <string name="accelerometer_coordinate_title">Accelerometer coordinate system</string>
+    
+    <!-- Screen Adaption -->
+    <string name="screen_adaption_title">Enable screen adaption</string>
+    <string name="screen_adaption_summary">Used to adjust size of some games display screen .</string>
+    <string name="screen_adaption_summary_off">The current resolution:</string>
+    <string name="screen_adaption_summary_on">Works after restart</string>
+    <string name="display_mode_selector_title">Display mode</string>
+    <string name="screen_adaption_setting">screen adaption</string>
+    
+    <string name="never_sleep">Never sleep</string>
+    
+    
+    <string name="google_market_is_not_found">Application market is not found.</string>
+    <string name="default_tts_speech_is_not_found">Please choice a default tts speech engine and choice a default language.</string>
+
+	<!-- Ethernet -->
+	<string name="eth_settings_title">Ethernet</string>
+	<string name="eth_toggle_title">Use Ethernet</string>
+	<string name="eth_settings">Ethernet Settings</string>
+	<string name="eth_devices">Ethernet Devices</string>
+	<string name="eth_conf">Ethernet Configure</string>
+	<string name="eth_ip_address">IP Address</string>
+	<string name="eth_ip_string">0.0.0.0</string>
+	<string name="eth_mac_address">MAC Address</string>
+	<string name="eth_mac_string">00:00:00:00:00:00</string>
+	<string name="eth_advanced_configure">Advanced Configure</string>
+	<string name="eth_mask_address">Mask Address</string>
+	<string name="eth_dns_address">DNS Server</string>
+	<string name="eth_gw_address">GateWay</string>
+	<string name="eth_dhcp_choice">DHCP</string>
+	<string name="eth_dev_more">None Device</string>
+	<string name="eth_dev_summaryoff">DISCONNECTED</string>
+	<string name="eth_dev_summaryon">CONNECTED -- USED DEVICE: </string>
+	
+	<string name="eth_link_status">Link Status</string>
+	<string name="eth_link_mode">Link Mode</string>
+	<string name="eth_ip_mode">IP Mode: </string>
+	<string name="eth_dhcp_mode">DHCP</string>
+	<string name="eth_manual_mode">MANUAL</string>
+	<string name="eth_ok">Ok</string>
+	<string name="eth_cancel">Cancel</string>
+	<string name="eth_advand">Advand</string>
+	<string name="eth_message">Are you apply this device?</string>
+	
+	<!-- Display trimming -->
+	<string name="tv_screen_trimming_title">Screen trimming</string>
+    <string name="tv_screen_trimming_summary">Adjust the size of Screen </string>
+    
+    <!-- USB larget storage -->
+    <string name="usb_storage_usage">USB large storage</string>
+    
+    <!--Begin wifi direct disconnect prompt add by wujinliang -->
+	<string name="wifi_direct_disconnect_title">Disconnected</string>
+	<string name="wifi_direct_disconnect_message">Do you want to disconnect?</string>
+	<!-- End wifi direct disconnect prompt add by wujinliang -->
+	
+	<!-- Blu ray -->
+	<string name="enable_blu_ray_directory_play_title">Enbale Blu Ray directory play mode</string>
+	<string name="enable_blu_ray_directory_play_summary">You can play the Blu Ray directory automatically when you select one in the FileManager.</string>
+	
+	<!-- Display Settings -->
+	<string name="display_mode_time_out_title">Modifying Comfirmation</string>
+	<string name="display_mode_time_out_desc">After %1$s s , it will restore to original preset.\nDo you want to save this change?</string>
+	<string name="display_mode_auto_detect">Auto Detect</string>
+</resources>

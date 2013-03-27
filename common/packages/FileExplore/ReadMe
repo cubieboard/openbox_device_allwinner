@@ -1,0 +1,75 @@
+Modify time 2011~2012
+=====================================================================
+Please follow the listed formate:
+Time       Verison          Name
+     * add your modify path.
+     * add your discriptions.
+=====================================================================
+2011-06-22 r993 dinghm<dinghm@allwinnertech.com>
+     * device/allwinner/packages/apps/OpenManager/src/com/nexex/manager/Main.java
+     * forbid lock screen in filemanager
+
+2011-06-16 r915 dinghm<dinghm@allwinnertech.com>
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/back.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/bar_bg.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/bar_bg_213.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/bg.xml
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/bg_focus.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/bg_unfocus.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/home.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/movie.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/multiselect_38.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/musics.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/picture.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/sdcard.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/toolbox.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-hdpi/usbhost.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/back.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/bar_bg.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/bg.xml
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/bg_focus.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/bg_unfocus.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/home.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/movie.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/multiselect_38.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/musics.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/picture.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/sdcard.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/toolbox.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-ldpi/usbhost.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/back.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/bar_bg.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/bg.xml
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/bg_focus.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/bg_unfocus.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/home.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/movie.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/multiselect_38.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/musics.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/picture.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/sdcard.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/toolbox.png
+     * device/allwinner/packages/apps/OpenManager/res/drawable-mdpi/usbhost.png
+     * device/allwinner/packages/apps/OpenManager/res/layout/main.xml
+     * device/allwinner/packages/apps/OpenManager/src/com/nexes/manager/Main.java
+     * add ui elements
+     * find applictions when click an music file
+
+2011-06-10 r749 dinghm<dinghm@allwinnertech.com>
+     * device/allwinner/packages/apps/OpenManager/src/com/nexex/manager/Main.java
+     * give the right path when click an music file
+
+2011-06-08 r699 dinghm<dinghm@allwinnertech.com>
+     * device/allwinner/packages/apps/OpenManager/res/layout/main.xml
+     * device/allwinner/packages/apps/OpenManager/res/values/strings.xml   
+     * device/allwinner/packages/apps/OpenManager/src/com/nexes/manager/CatalogList.java
+     * device/allwinner/packages/apps/OpenManager/src/com/nexes/manager/EventHandler.java
+     * device/allwinner/packages/apps/OpenManager/src/com/nexes/manager/Main.java
+     * device/allwinner/packages/apps/OpenManager/src/com/nexes/manager/TypeFilter.java
+     * add hot plug functions for tree view and catalog list
+     * add catalog list function
+     * change apk name to File Manager
+
+2011-05-30 r624 dinghm<dinghm@allwinnertech.com>
+     * device/allwinner/packages/apps/Android-File-Manager/
+     * add the Android-File-Manager project
